@@ -10,7 +10,7 @@ with open(path.join(this_directory, "requirements.txt")) as f:
 
 setup(
     name='datadog-serverless-utils',
-    version='1.0',
+    version='1.0.2',
     url='https://github.com/newtonx-inc/datadog-serverless-utils',
     author='NewtonX',
     author_email='',
