@@ -1,0 +1,4 @@
+# Function dependencies, for example:
+# package>=version
+ddtrace>=1.6.3
+pytest>=7.0.1
