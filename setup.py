@@ -12,7 +12,7 @@ setup(
     url='',
     author='NewtonX',
     author_email='',
-    python_requires='>=3.8',
+    python_requires='>=3.4',
     install_requires=install_requires,
     test_suite="tests.test_utils",
     package_dir={'': 'src'},
